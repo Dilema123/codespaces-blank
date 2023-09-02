@@ -3,7 +3,7 @@ body {
 }
 
 .postcard {
-	width: 400px;
+	width: 600px;
 	height: 300px;
 	background: white;
 	margin: auto;
@@ -19,8 +19,7 @@ body {
 }
 
 .postcard-header h1 {
-	width: x;
-	margin: x;
+	width: 390px;
 }
 
 .postcard-body {
